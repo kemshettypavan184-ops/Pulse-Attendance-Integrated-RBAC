@@ -1,0 +1,24 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Maven
+backend/target/
+
+# Environment and local configuration
+.env
+.env.local
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

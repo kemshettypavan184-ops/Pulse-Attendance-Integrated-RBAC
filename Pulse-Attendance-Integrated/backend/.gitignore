@@ -1,0 +1,97 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.tmp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# General IDE
+*.swp
+*.swo
+*~
+.env
+.env.local
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+logs/
+
+# Node modules (if any frontend build tools are used)
+node_modules/
+npm-debug.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime/OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Application configuration
+application-local.properties
+application-dev.properties
+application-prod.properties
